@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#night{
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.navbar-brand{
+    padding-left: 20px;
+    font-size: 30px;
+}
+.navbar .nav-link{
+    font-size: 20px;
+}
+.w-100{
+    width: 100% !important;
+    height: 60vh;
+}
+.main-content{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 25px;
+}
+.footer p{
+    text-align: center;
+}
