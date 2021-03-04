@@ -3,7 +3,13 @@
     padding: 0px;
 }
 #night{
-    width: 85%;
+    max-width: 85%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#day{
+    max-width: 100%;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -28,6 +34,9 @@
     justify-content: center;
     align-content: center;
     padding: 25px;
+}
+.footer{
+    padding: 30px;
 }
 .footer p{
     text-align: center;
