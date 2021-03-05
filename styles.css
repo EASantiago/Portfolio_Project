@@ -17,6 +17,14 @@
 body{
     background-color: tan;
 }
+.content-divider{
+    border-style: inset;
+    border-width: 3px;
+    background-color: #f0ad4e;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .navbar-brand{
     padding-left: 20px;
     font-size: 25px;
@@ -46,7 +54,7 @@ body{
     display: flex;
     justify-content: center;
     align-content: center;
-    padding: 25px;
+    padding: 125px;
 }
 .footer{
     padding: 30px;
