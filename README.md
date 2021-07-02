@@ -4,7 +4,7 @@ Our first project submission in Coding Dojo Web Development Bootcamp.
 
 ### Description
 
-I was insirped by a real national park in Texas for my submission and hopefully get a chance to visit one day.
+I was insirped by a real national park in Texas for my submission and hopefully get a chance to visit the park one day.
 
 ### Features
 
